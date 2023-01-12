@@ -29,5 +29,5 @@ Open your prefered terminal (e.g. cmd, terminal. etc.)
 Type:
 
 ```bash
-pip install 
+pip install git+https://github.com/Mechinsam/charByChar.git#egg=CharByChar
 ```
