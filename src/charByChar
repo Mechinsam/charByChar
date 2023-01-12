@@ -1,0 +1,26 @@
+from sys import platform
+from os import system
+from time import sleep
+
+def cs():
+  if platform == "win32":
+    system("clear")
+  else:
+    system("clear")
+
+class charByChar:
+    def __init__(self, text="Printing char by char!", delay=0.08333333333):
+        self.letters = []
+        self.delay = delay
+        for x in text:
+            self.letters.append(x)
+        self.line_print()
+   
+    def line_print(self):
+        to_print = ""
+        for x in self.letters:
+            sleep(self.delay)
+            cs()
+            to_print += x
+           
+            print(to_print)
