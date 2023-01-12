@@ -8,7 +8,7 @@ def cs():
   else:
     system("clear")
 
-class charByChar:
+class CharByChar:
     def __init__(self, text="Printing char by char!", delay=0.08333333333):
         self.letters = []
         self.delay = delay
