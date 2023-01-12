@@ -24,9 +24,6 @@ It works by printing one character than pausing for a short time then moving ont
 
 # Installation
 
-Required python version: `3.0+`
-> may work on earlier versions but has not been tested
-
 Open your prefered terminal (e.g. cmd, terminal. etc.)
 
 Type:
