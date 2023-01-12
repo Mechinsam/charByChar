@@ -1,6 +1,9 @@
 # CharByChar
 ---
 
+- [Licence](https://github.com/Mechinsam/charByChar/blob/main/LICENCE)
+- [Latest version](https)
+
 # About
 Character by character is a python script allowing you to display text like this:
 
