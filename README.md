@@ -2,7 +2,7 @@
 ---
 
 - [Licence](https://github.com/Mechinsam/charByChar/blob/main/LICENCE)
-- [Latest version](https)
+- [Latest version](https://github.com/Mechinsam/charByChar/releases/tag/v1.1)
 
 # About
 Character by character is a python script allowing you to display text like this:
