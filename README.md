@@ -7,7 +7,7 @@
 # About
 Character by character is a python script allowing you to display text like this:
 
-//img
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/95701816/212156968-a233780f-4b51-4be5-bb15-ffdc6b569821.gif)
 
 It works by printing one character than pausing for a short time then moving onto the next
 
