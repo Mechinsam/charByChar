@@ -3,10 +3,7 @@ from os import system
 from time import sleep
 
 def cs():
-  if platform == "win32":
-    system("clear")
-  else:
-    system("clear")
+  print("\033c")
 
 class CharByChar:
     def __init__(self, text="Printing char by char!", delay=0.08333333333):
