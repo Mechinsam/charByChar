@@ -1,5 +1,3 @@
-from sys import platform
-from os import system
 from time import sleep
 
 def cs():
