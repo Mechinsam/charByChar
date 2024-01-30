@@ -8,7 +8,7 @@ name="CharByChar"
 description = "Character by character is a python script allowing you to display text as if someone is typing it!"
 version="1.3"
 readme = "README.md"
-license = {file = "LICENSE"}
+license = {text = "MIT LICENCE"}
 dependencies = ["colorama"]
 authors = [
 	{name = "Zohaib Jafar"}
