@@ -7,7 +7,7 @@ class CharByChar:
     def __init__(self, text="Printing char by char!", delay=0.08333333333): # For best results, use the default delay
         self.letters = []
         self.delay = delay
-        for chacter in text:
+        for character in text:
             self.letters.append(character)
         character = None # Clear cached data
         self.line_print()
